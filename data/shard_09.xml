@@ -1,0 +1,12 @@
+<event>
+    <order_id>104</order_id>
+    <date_time>2023-08-11T10:00:00</date_time>
+    <status>In Progress</status>
+    <cost>45.00</cost>
+    <repair_details>
+        <technician>Robert White</technician>
+        <repair_parts>
+            <part name="Tire" quantity="2"/>
+        </repair_parts>
+    </repair_details>
+</event>

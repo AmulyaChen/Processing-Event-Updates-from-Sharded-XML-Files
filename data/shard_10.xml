@@ -1,0 +1,13 @@
+<event>
+    <order_id>104</order_id>
+    <date_time>2023-08-11T12:00:00</date_time>
+    <status>Completed</status>
+    <cost>110.00</cost>
+    <repair_details>
+        <technician>Robert White</technician>
+        <repair_parts>
+            <part name="Tire" quantity="2"/>
+            <part name="Brake Fluid" quantity="1"/>
+        </repair_parts>
+    </repair_details>
+</event>

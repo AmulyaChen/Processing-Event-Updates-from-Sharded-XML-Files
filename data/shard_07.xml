@@ -1,0 +1,12 @@
+<event>
+    <order_id>101</order_id>
+    <date_time>2023-08-10T18:00:00</date_time>
+    <status>Reopened</status>
+    <cost>65.00</cost>
+    <repair_details>
+        <technician>Jane Smith</technician>
+        <repair_parts>
+            <part name="Oil Filter" quantity="1"/>
+        </repair_parts>
+    </repair_details>
+</event>

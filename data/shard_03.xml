@@ -1,0 +1,12 @@
+<event>
+    <order_id>103</order_id>
+    <date_time>2023-08-10T14:00:00</date_time>
+    <status>In Progress</status>
+    <cost>100.50</cost>
+    <repair_details>
+        <technician>Mary Johnson</technician>
+        <repair_parts>
+            <part name="Brake Pad" quantity="2"/>
+        </repair_parts>
+    </repair_details>
+</event>

@@ -1,0 +1,13 @@
+<event>
+    <order_id>102</order_id>
+    <date_time>2023-08-11T09:00:00</date_time>
+    <status>In Progress</status>
+    <cost>85.00</cost>
+    <repair_details>
+        <technician>James Brown</technician>
+        <repair_parts>
+            <part name="Fuel Filter" quantity="1"/>
+            <part name="Air Filter" quantity="1"/>
+        </repair_parts>
+    </repair_details>
+</event>

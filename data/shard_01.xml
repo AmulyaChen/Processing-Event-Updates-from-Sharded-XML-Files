@@ -1,0 +1,12 @@
+<event>
+    <order_id>101</order_id>
+    <date_time>2023-08-10T10:00:00</date_time>
+    <status>In Progress</status>
+    <cost>50.25</cost>
+    <repair_details>
+        <technician>Jane Smith</technician>
+        <repair_parts>
+            <part name="Air Filter" quantity="1"/>
+        </repair_parts>
+    </repair_details>
+</event>
